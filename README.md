@@ -63,6 +63,7 @@ The foundational stage where entrepreneurial vision meets market reality. This c
 - [Calven](https://calven.ai/) - Product marketing agents for competitive intelligence, win/loss, positioning, and messaging
 - [Crunchbase](https://www.crunchbase.com/) - AI-powered company and startup database with advanced search
 - [Glimpse](https://meetglimpse.com/) - Trend discovery and predictive analytics tool
+- [Inteldo](https://inteldo.com/) - Business research across connected data and external sources using specialist agents
 - [MyMap.AI Market Analysis](https://www.mymap.ai/market-analysis-tool) - Generate comprehensive market analysis from single topic input
 - [Quantilope](https://www.quantilope.com/) - AI-native consumer research platform with quinn AI co-pilot
 - [Sembly AI (Semblian)](https://www.sembly.ai/) - AI-driven market research and competitive intelligence
