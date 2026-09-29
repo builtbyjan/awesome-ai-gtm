@@ -95,11 +95,11 @@ first and then derive the numbers.
 
 > Derived directly from `README.md` by `scripts/update_dashboard.py`. Do not edit by hand.
 
-- **Total tools listed**: 150
+- **Total tools listed**: 151
 
 | GTM Stage | Tools |
 |-----------|-------|
-| 🧠 Genesis Stage - Ideation & Strategy | 19 |
+| 🧠 Genesis Stage - Ideation & Strategy | 20 |
 | 📈 Attraction Stage - Marketing & Content | 22 |
 | 🤝 Conversion Stage - Sales & Outreach | 35 |
 | 💼 Closing Stage - Pipeline & Support | 16 |
